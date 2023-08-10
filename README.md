@@ -1,3 +1,3 @@
 # INFT1016
-## subtitle
+# This is a large heading. 
 ### tagline
