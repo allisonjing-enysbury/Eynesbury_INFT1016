@@ -1,0 +1,23 @@
+h1 {
+    font-size: 1.33em;
+    text-align: center;
+}
+h2 {font-size: 1.17em;}
+p {margin: 0 0 0.5em 0;}
+h1, h2 {margin: 0.83em 0 0.17em 0; }
+p:first-of-type {
+    font: 2.17em/1.33 Verdana, sans-serif;
+  }
+p.first {text-indent: 0em;}
+p + p {text-indent: 5em;}
+p {
+    text-indent: 5em;
+    border-style: solid;
+    border-color: tan;
+    background-color: aqua;}
+c-background-color{
+    yellow: #555555
+}
+a:hover {
+    background-color: orange;
+  }
